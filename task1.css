@@ -1,0 +1,69 @@
+#whole-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+    width: 100%;
+    
+}
+.navflex{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightgreen;
+     width: 20%;
+     height: 100vh;
+    flex-direction: column;
+}
+.column2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 80%;
+    height: 100vh;
+}
+.headflex{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: green;
+    width: 100%;
+    height: 20vh;
+}
+.asidearti{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    height: 80vh;
+}
+.artifoot{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 80%;
+    height: 100vh;
+}
+.arti{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: sandybrown;
+    height: 60vh;
+    width: 100%;
+}
+
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: green;
+    width: 100%;
+    height: 20vh;
+    
+}
+.asideee{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: bisque;
+    width: 20%;
+    height: 80vh; 
+    flex-direction: column;
+}
+
+
